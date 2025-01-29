@@ -39,6 +39,7 @@ h2.text-preset-3.rose-800 {
 
 ul {
     padding-left: 25px;
+    margin-bottom: 0;
 }
 
 .preparation > ul > li::marker {
