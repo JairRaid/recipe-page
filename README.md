@@ -34,7 +34,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### What I learned
 
 Wile doing this project, i learned to change color of the dot inside the unordered list and using the tag table HTML.
-this is 
 
 ## Author
 
